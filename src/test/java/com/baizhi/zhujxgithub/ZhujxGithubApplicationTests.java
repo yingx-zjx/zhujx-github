@@ -11,6 +11,7 @@ public class ZhujxGithubApplicationTests {
 
     @Test
     public void contextLoads() {
+        System.out.println("哈哈哈，你好");
     }
 
 }
